@@ -102,3 +102,6 @@ Eprom 27512 - 64 KB - CRC32: 030E0031
 
 ## HM6264 / CDM6264
 ![letsbuildone_23](letsbuildone/letsbuildone_23.jpg?raw=true)
+
+## Cartridge Case
+![letsbuildone_24](letsbuildone/letsbuildone_24.jpg?raw=true)
