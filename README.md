@@ -6,6 +6,11 @@ towards the end of 1986 with a heavy ROM load of initially 32 kbyte later rising
 even and a solid 8 kbyte RAM the cartridge had everything required to become a real success. 
 (Source: rr.pokefinder.org)
 
+## Preview image from Sprint Layout
+
+![sprint layout replica top](Magic_Formel_PCB_Clone_Front.jpg?raw=true)
+![sprint layout replica back](Magic_Formel_PCB_Clone_Back.jpg?raw=true)
+
 ## Replica PCB
 
 ![replica top](New_PCB_MagicFormel_Top.jpg?raw=true)
